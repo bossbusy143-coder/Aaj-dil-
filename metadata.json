@@ -1,0 +1,8 @@
+{
+  "name": "Remix Physics Wallah — EduVibe",
+  "description": "Access Physics Wallah batches, comprehensive study materials, DPP quizzes, lecture notes, video player, and test series on EduVibe for JEE Main, Advanced, NEET, and Board exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

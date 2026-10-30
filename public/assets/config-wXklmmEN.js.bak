@@ -1,0 +1,1 @@
+var e=()=>"https://api.penpencil.cc.cd".replace(/\/+$/,""),r=()=>"https://auth.eduvibe.cc.cd".replace(/\/+$/,""),t=()=>"https://progress.eduvibe.cc.cd".replace(/\/+$/,"");export{r as n,t as r,e as t};

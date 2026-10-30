@@ -1,0 +1,194 @@
+# Physics Wallah — EduVibe | Full Platform Specification & Knowledge Base
+
+> Comprehensive, unabridged platform documentation for Large Language Models (LLMs), AI agents, students, and developers detailing Physics Wallah on EduVibe (https://pw.eduvibe.cc.cd)—including course offerings, batch structures, platform architecture, study tools, Telegram communities, legal frameworks, and FAQs.
+
+---
+
+## 1. What You Can Do With This Document
+
+This document serves as the authoritative, self-contained reference for the Physics Wallah learning space on EduVibe. You can:
+1. Guide students to the exact batch suited for their target competitive exam (JEE Main, JEE Advanced, NEET-UG, CBSE Classes 9–12, and Olympiads).
+2. Explain the pedagogical structure of flagship batches (Arjuna, Lakshya, Yakeen, Prayas, Foundation) and historical Khazana archives.
+3. Detail the technical capabilities of the EduVibe web portal: adaptive video streaming, interactive DPP quiz engines, infinite adaptive practice, Tracker360 syllabus analytics, and study streak gamification.
+4. Provide direct deep links to course modules, revision notes, PDF viewers, and official Telegram study channels.
+5. Answer legal, compliance, privacy, and non-commercial mission inquiries regarding EduVibe's 100% free educational indexing and responsible technical disclosure history.
+
+---
+
+## 2. Platform Overview & Mission
+
+Physics Wallah (PW), founded by Alakh Pandey and co-founded by Prateek Maheshwari, sparked an educational revolution in India by democratizing access to high-caliber coaching that was once restricted to expensive coaching hubs like Kota. 
+
+EduVibe (https://pw.eduvibe.cc.cd) operates as an open, distraction-free web gateway delivering this comprehensive curriculum to deserving learners across India.
+
+### Core Pillars
+- **100% Free Educational Access**: Absolutely zero subscription fees, paywalls, or commercial advertisements. Quality education is treated as a fundamental public good.
+- **Academic Rigor**: Complete, exhaustive coverage of the NCERT syllabus along with advanced competitive problem solving for JEE Advanced and NEET-UG.
+- **Comprehensive Practice Loop**: High-frequency retention loop combining daily interactive lectures, chapter-wise Daily Practice Problems (DPPs), adaptive question generation, and computer-based mock tests.
+- **Distraction-Free Web Architecture**: Built using modern web standards (React 19, TypeScript, Vite, Tailwind CSS, Cloudflare Edge) ensuring lightning-fast load times without commercial banners, popups, or trackers.
+- **Active Peer Support**: Integrated Telegram networks facilitating round-the-clock student doubt clearing and academic collaboration.
+
+---
+
+## 3. Flagship Batches & Curriculum Breakdown
+
+### 3.1. Arjuna Batch (Class 11)
+- **Target Audience**: Students entering Class 11 from Class 10.
+- **Streams**: Arjuna JEE (Physics, Chemistry, Mathematics) & Arjuna NEET (Physics, Chemistry, Botany, Zoology).
+- **Pedagogical Strategy**:
+  - Focuses on deep conceptual fundamentals, easing the transition from school-level science to competitive-level problem solving.
+  - Covers foundational topics: Mechanics, Thermodynamics, Physical & Inorganic Chemistry basics, Calculus, and Cell Biology.
+  - Daily lectures paired with topic-wise Daily Practice Problems (DPPs).
+  - Regular bi-weekly minor tests and cumulative quarterly exams.
+
+### 3.2. Lakshya Batch (Class 12)
+- **Target Audience**: Class 12 students preparing simultaneously for Board exams and JEE/NEET.
+- **Streams**: Lakshya JEE & Lakshya NEET.
+- **Pedagogical Strategy**:
+  - Comprehensive coverage of the entire Class 12 syllabus aligned with CBSE/State board marking rubrics.
+  - Synchronized preparation for competitive entrance exams with shortcut tricks and time-saving heuristics.
+  - Dedicated Class 11 revision marathons conducted post-syllabus completion.
+  - Full-length board mock exams and NTA-format Computer Based Tests (CBT).
+
+### 3.3. Yakeen Batch (NEET Droppers / Repeaters)
+- **Target Audience**: Dedicated medical aspirants taking a gap year for NEET-UG.
+- **Pedagogical Strategy**:
+  - High-intensity, accelerated curriculum designed to build speed, accuracy, and endurance.
+  - Systematic backlog clearing and error analysis.
+  - Line-by-line NCERT Biology deconstruction with assertion-reason and statement-type question drilling.
+  - Extensive numerical practice in Physics and Physical Chemistry.
+  - High-frequency test series simulating the actual 3-hour 20-minute NEET-UG exam pressure.
+
+### 3.4. Prayas Batch (JEE Droppers / Repeaters)
+- **Target Audience**: Gap-year repeaters aiming for top ranks in JEE Main and IIT JEE Advanced.
+- **Pedagogical Strategy**:
+  - Rigorous multi-concept problem decomposition.
+  - Dissection of previous 15+ years of JEE Main and Advanced questions (PYQs).
+  - Advanced level problem sets focusing on multi-correct options, numerical value answers, and comprehension-based questions.
+  - Speed optimization and strategic negative-marking avoidance.
+
+### 3.5. Foundation & Board Batches (Classes 9 & 10)
+- **Batches**: Udaan Batch (Class 10) & Neev Batch (Class 9).
+- **Pedagogical Strategy**:
+  - Building early analytical thinking, scientific curiosity, and mathematical foundation.
+  - Thorough NCERT textbook coverage with chapter-end problem solutions.
+  - Preparation for Olympiads (NSEJS, PRMO/IOQM, NSO, IMO) and NTSE.
+
+### 3.6. Khazana Masterclass Archive
+- **URL**: https://pw.eduvibe.cc.cd/study/khazana
+- **Description**: An expansive lecture repository housing classic masterclasses from celebrated faculties across all past academic years.
+- **Key Benefit**: Allows students to learn complex topics from multiple expert viewpoints and revise chapters in advance of live schedules.
+
+---
+
+## 4. Platform Features & Technical Architecture
+
+### 4.1. High-Performance Video Player (`/watch`)
+- **Adaptive Streaming**: Delivers smooth playback across bandwidth constraints using optimized HLS streams.
+- **Variable Playback Speeds**: Supports speeds ranging from 0.5x to 3.0x for accelerated revision.
+- **Last-Position Memory**: Automatically records playback position and resumes seamlessly across devices.
+- **In-Player Controls**: Includes quick-seek shortcuts, chapter navigation, and downloadable lecture notes.
+
+### 4.2. Daily Practice Problems (DPP) & Quiz Engine (`/practice`)
+- Interactive question-solving interface providing instant evaluation.
+- Detailed solution breakdowns with step-by-step logic and formula references.
+- High-definition video solutions taught by expert educators.
+
+### 4.3. Infinite Adaptive Practice (`/infinite-practice`)
+- Algorithm-driven practice module allowing students to generate custom question sets.
+- Customizable parameters: Subject, Chapter, Specific Topics, Difficulty Level (Easy, Medium, Hard), and Question Count.
+- Continuous difficulty adaptation based on student accuracy.
+
+### 4.4. Tracker360 Analytics & Gamified Streaks (`/tracker`, `/profile`)
+- **Syllabus Progress Visualizer**: Real-time percentage tracking across each subject (Physics, Chemistry, Mathematics, Biology).
+- **Daily Study Streak**: Reinforces daily discipline by requiring at least 20 XP of study activity per day to maintain active streaks.
+- **Anti-Cheat Capped XP System**: XP is earned at 1 XP per minute of genuine lecture study and 2 XP per correct practice question, with a strict server-enforced anti-cheat limit of 120 XP per hour.
+- **League Leaderboards (`/leaderboard`)**: 30-participant competitive cohorts evaluated over 14-day cycles to foster healthy peer motivation without unhealthy pressure.
+
+### 4.5. Digital Library & Study Materials (`/library`, `/study-material`)
+- Integrated PDF reader for formula cheat sheets, handwritten class notes, and NCERT exemplars.
+- Full chapter summaries for rapid pre-exam revision.
+
+### 4.6. Progressive Web App (PWA)
+- Installable on Android, iOS, Windows, macOS, and Linux.
+- Service worker caching for fast re-entry and offline resilience.
+
+---
+
+## 5. Official Communities & Telegram Network
+
+- **Physics Wallah Community Channel**: https://t.me/EduVibe_PW
+  - Official channel for daily batch schedules, DPP notifications, formula sheets, and academic motivation.
+- **Physics Wallah Discussion Group**: https://t.me/EduVibe_PW_Group
+  - 24/7 collaborative peer study group for doubt clearing, solution discussions, and study circles.
+- **EduVibe Main Channel**: https://t.me/EduVibe_Main
+  - Central platform announcements, feature releases, and infrastructure updates.
+
+---
+
+## 6. Responsible Disclosure & Legal Notice
+
+EduVibe is committed to good-faith, responsible technical communication. Over an extensive period of **more than 6 months**, our team proactively sent **approximately 20 formal, detailed technical communications** to the engineering, technical support, and administrative desks of the respective platforms. These reports specifically detailed system delivery issues, API misconfigurations, and streaming delivery vulnerabilities.
+
+Despite repeated, well-documented notices over half a year, the respective platforms failed or declined to remediate or patch these technical configurations. In light of their lack of corrective action and our non-commercial public mission, EduVibe maintains open, free educational indexing exclusively for student academic benefit so that deserving learners are not deprived of educational resources.
+
+If any legitimate platform technical team or rights-holder wishes to coordinate technical resolution or grievance redressal, they may reach out directly to **legal@eduvibe.cc.cd** or **support@eduvibe.cc.cd**.
+
+---
+
+## 7. Privacy Policy Summary
+
+- **Minimal Data Collection**: EduVibe collects only essential data required for service operation (optional Google OAuth name/email for profile personalization, device diagnostic logs, and local browser storage for study progress).
+- **Google API Limited Use Compliance**: We strictly adhere to the Google API Services User Data Policy.
+- **Zero Commercialization**: We never sell, rent, monetize, or trade personal data to third parties, advertising networks, or data brokers.
+- **Encryption**: All communication is secured via modern HTTPS/TLS protocols.
+- Full Policy: https://pw.eduvibe.cc.cd/privacy (Markdown: https://pw.eduvibe.cc.cd/privacy.md)
+
+---
+
+## 8. Terms of Service Summary
+
+- **Agreement**: Accessing the platform constitutes agreement to the terms.
+- **100% Free**: No fees, subscriptions, or financial transactions are ever conducted.
+- **Acceptable Use**: Users agree not to misuse infrastructure, distribute harmful software, or disrupt services.
+- **Proprietary & Third-Party Marks**: Third-party names, trademarks, and logos (Physics Wallah, Alakh Pandey, etc.) remain the property of their respective holders and are referenced strictly for educational indexing and navigation.
+- Full Terms: https://pw.eduvibe.cc.cd/terms (Markdown: https://pw.eduvibe.cc.cd/terms.md)
+
+---
+
+## 9. Frequently Asked Questions (FAQs)
+
+### What is Physics Wallah — EduVibe?
+Physics Wallah — EduVibe (https://pw.eduvibe.cc.cd) is an educational web portal that gives students free access to Physics Wallah's curriculum—including flagship batches (Arjuna, Lakshya, Yakeen, Prayas), video lectures, DPPs, tests, and study materials.
+
+### Is the platform completely free?
+Yes. It is 100% free with no subscription plans, paid tiers, hidden charges, or commercial ads.
+
+### Which batches are available on the portal?
+- Arjuna Batch: Class 11 JEE & NEET.
+- Lakshya Batch: Class 12 JEE & NEET.
+- Yakeen Batch: NEET Dropper/Repeater.
+- Prayas Batch: JEE Dropper/Repeater.
+- Foundation Batches: Classes 9 & 10 (Neev & Udaan).
+- Khazana: Masterclasses by top faculties.
+
+### What is Khazana?
+Khazana is a specialized lecture archive featuring masterclasses taught by top faculties across various subjects, accessible via `/study/khazana`.
+
+### How does the DPP system work?
+After lectures, students can solve chapter-wise Daily Practice Problems (`/practice`) with instant grading, step-by-step solutions, and video explanations.
+
+### What is Tracker360?
+Tracker360 (`/tracker`) is an analytical dashboard tracking syllabus completion percentages, study hours, active streaks (20 XP/day), and All-India league rankings.
+
+### How do I install the app on my mobile or desktop?
+As a Progressive Web App (PWA), you can install it directly by tapping "Install App" or selecting "Add to Home Screen" in your browser.
+
+### Where can I get help with study doubts?
+Join the official Telegram Discussion Group at https://t.me/EduVibe_PW_Group for 24/7 peer collaboration.
+
+### What is EduVibe's responsible disclosure stance?
+EduVibe formally reported technical and streaming delivery issues to upstream platforms in approximately 20 communications over 6+ months without remediation, maintaining open access for non-commercial student benefit.
+
+### How is student data protected?
+EduVibe gathers minimal operational data, strictly respects Google API Limited Use terms, and never monetizes user information.

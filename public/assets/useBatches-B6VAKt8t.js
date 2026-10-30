@@ -1,0 +1,1 @@
+import{a as r}from"./rolldown-runtime-DS2seoW7.js";import{u as e}from"./vendor-icons-GJZO3rBf.js";import{o}from"./index-BENNY6Cb.js";var a=r(e(),1),m=()=>{const t=(0,a.useContext)(o);if(t===void 0)throw new Error("useBatches must be used within a BatchProvider");return t};export{m as t};

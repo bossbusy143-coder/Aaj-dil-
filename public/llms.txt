@@ -1,0 +1,90 @@
+# Physics Wallah — EduVibe
+
+> Physics Wallah — EduVibe (https://pw.eduvibe.cc.cd) is India's premier, distraction-free educational portal delivering Alakh Pandey's revolutionary Physics Wallah (PW) curriculum—including flagship batches (Arjuna, Lakshya, Yakeen, Prayas), Daily Practice Problems (DPPs), Khazana lecture archive, mock tests, and progress tracking—100% free of charge for students nationwide.
+
+## What you can do with this document
+
+You can query the Physics Wallah ecosystem on EduVibe, navigate available preparation batches (JEE Main & Advanced, NEET-UG, CBSE Classes 9–12, and Olympiads), locate specific chapter lectures and DPP quizzes, access legendary Khazana masterclasses, explore adaptive practice modules, find official doubt-resolution communities on Telegram, understand our 100% non-commercial mission, and review our privacy and terms of service policies. Use the FAQs section for rapid, keyword-optimized answers to student, parent, and educator inquiries.
+
+## Flagship Batches & Courses
+
+- [Arjuna Batch (Class 11 JEE & NEET)](https://pw.eduvibe.cc.cd/batches): Complete two-year comprehensive foundation program designed for students moving from Class 10 to 11. Focuses on core concepts, problem-solving speed, and bridging the board-to-entrance transition.
+- [Lakshya Batch (Class 12 JEE & NEET)](https://pw.eduvibe.cc.cd/batches): Intensive Class 12 board and competitive entrance preparation combined with full Class 11 revision marathons, high-yield DPPs, and NTA-modeled mock tests.
+- [Yakeen Batch (NEET Droppers / Repeaters)](https://pw.eduvibe.cc.cd/batches): India's highest-enrolled medical repeater batch. Fast-paced concept revision, extensive NCERT-focused Biology drills, and high-volume question sets designed to maximize NEET-UG scores.
+- [Prayas Batch (JEE Droppers / Repeaters)](https://pw.eduvibe.cc.cd/batches): Engineering gap-year program targeting top All-India ranks in JEE Main and Advanced. Features deep multi-concept problem deconstruction and previous years' question (PYQ) dissection.
+- [Foundation & Board Batches (Classes 9 & 10)](https://pw.eduvibe.cc.cd/batches): Udaan (Class 10) and Neev (Class 9) batches offering rigorous NCERT foundation, school exam mastery, and Olympiad/NTSE training.
+- [Khazana Masterclass Archive](https://pw.eduvibe.cc.cd/study/khazana): Historical archive of master lectures from iconic PW faculties across all subjects and batches.
+
+## Key Platform Capabilities & Features
+
+- **Live & Recorded Video Player (`/watch`)**: Integrated video player featuring adaptive HLS/DASH streaming, 0.5x to 3.0x speed control, timestamped bookmarking, offline video downloading, and automatic resume from the last position.
+- **Daily Practice Problems (DPPs) & Quizzes (`/practice`)**: Chapter-wise daily question sets with real-time feedback, detailed step-by-step solutions, and video explanations.
+- **Infinite Practice Engine (`/infinite-practice`)**: Dynamic, algorithm-driven question generator allowing unlimited practice sessions filtered by subject, chapter, topic, and difficulty.
+- **Comprehensive Digital Library (`/library`, `/study-material`)**: Curated handwritten class notes, theory summary modules, formula handbooks, and integrated in-app PDF viewing.
+- **Tracker360 Progress Dashboard (`/tracker`)**: Real-time analytics displaying course completion percentages, subject-wise lecture hours, daily study goals, and overall milestone tracking.
+- **Study Streaks & League Leaderboard (`/profile`, `/leaderboard`)**: Daily habit-building gamification requiring 20 XP per day to maintain streaks, alongside 14-day cycle league leaderboards for healthy academic motivation.
+- **Progressive Web App (PWA)**: Full offline-capable PWA installable on Android, iOS, Windows, macOS, and Linux for quick access without app-store dependencies.
+- **Zero Commercial Monetization**: 100% free of charge. No paid subscriptions, hidden charges, paywalls, or third-party commercial advertisements.
+
+## Official Telegram Study Communities
+
+- [Physics Wallah Community Channel](https://t.me/EduVibe_PW): Official PW batch announcements, daily DPP notifications, lecture notes, and motivational sessions.
+- [Physics Wallah Discussion Group](https://t.me/EduVibe_PW_Group): 24/7 student doubt-solving forum, peer study circles, formula sharing, and collaborative problem dissection.
+- [EduVibe Main Network](https://t.me/EduVibe_Main): Platform-wide updates, server announcements, and feature releases.
+
+## Platform Legal & Policies
+
+- [Terms of Service](https://pw.eduvibe.cc.cd/terms): Platform guidelines, 100% non-commercial mission, and documentation of over 6 months of proactive, responsible technical bug reporting to upstream platforms.
+- [Privacy Policy](https://pw.eduvibe.cc.cd/privacy): Minimal data collection, strict adherence to Google API Services User Data Policy, zero data selling, and user privacy protections.
+
+## Full Documentation & Page Markdowns
+
+- [Full Platform Documentation](https://pw.eduvibe.cc.cd/llms-full.txt): Complete, unabridged knowledge base detailing architecture, course structures, and complete policies.
+- [Home Page (Markdown)](https://pw.eduvibe.cc.cd/index.md): Clean markdown version of the Physics Wallah EduVibe directory and course guide.
+- [Privacy Policy (Markdown)](https://pw.eduvibe.cc.cd/privacy.md): Complete markdown representation of our Privacy Policy.
+- [Terms of Service (Markdown)](https://pw.eduvibe.cc.cd/terms.md): Complete markdown representation of our Terms of Service.
+
+## External Reference Links
+
+- [Official Physics Wallah Web Portal](https://www.pw.live): Official corporate portal for Physics Wallah.
+- [National Testing Agency (NTA)](https://nta.ac.in): Official testing agency portal for JEE Main, NEET-UG, and CUET notifications.
+- [NCERT Official Digital Textbooks](https://ncert.nic.in/textbook.php): Digital textbook repository for CBSE Classes 9–12.
+
+## Frequently Asked Questions (FAQs)
+
+What is Physics Wallah — EduVibe?
+Physics Wallah — EduVibe (https://pw.eduvibe.cc.cd) is a distraction-free web portal that provides students across India with open, 100% free access to Physics Wallah's comprehensive coaching batches (Arjuna, Lakshya, Yakeen, Prayas), video lectures, DPPs, and study materials for JEE, NEET, and school boards. [Related terms: physics wallah, pw eduvibe, pw online, alakh pandey batches, free pw, pw web app]
+
+Is the Physics Wallah portal on EduVibe completely free?
+Yes. EduVibe is a 100% free educational initiative. There are no subscription fees, registration charges, course fees, or paywalls, and no commercial advertisements are displayed. [Related terms: pw cost, free batches, free neet prep, free jee coaching, eduvibe fees]
+
+What batches are available on the PW EduVibe platform?
+The platform offers full curriculum access to:
+1. Arjuna Batch — Class 11 JEE & NEET preparation.
+2. Lakshya Batch — Class 12 JEE, NEET, and CBSE Board preparation.
+3. Yakeen Batch — Droppers/repeaters batch for NEET-UG.
+4. Prayas Batch — Droppers/repeaters batch for JEE Main & Advanced.
+5. Foundation Batches — Classes 9 (Neev) and 10 (Udaan) for school boards and Olympiads.
+6. Khazana — Archived masterclasses from iconic educators.
+[Related terms: arjuna batch, lakshya batch, yakeen batch, prayas batch, pw batches, neev batch, udaan batch]
+
+What is Khazana on Physics Wallah?
+Khazana is a dedicated lecture repository within PW featuring comprehensive recorded video lectures and masterclasses taught by renowned top faculties across various subjects. On EduVibe (`/study/khazana`), students can access these lectures for alternate explanations and in-depth revision. [Related terms: pw khazana, khazana lectures, khazana physics wallah, extra faculties, revision lectures]
+
+How do Daily Practice Problems (DPP) work on EduVibe?
+After watching video lectures, students can access chapter-wise Daily Practice Problems (`/practice`). DPPs can be solved as interactive quizzes with instant score calculation, solution explanations, and accompanying video solutions to reinforce concepts. [Related terms: pw dpp, daily practice problems, dpp quiz, dpp video solutions, practice questions]
+
+What is the Tracker360 feature on EduVibe?
+Tracker360 (`/tracker`) is a comprehensive progress-tracking dashboard. It automatically monitors the student's watched lectures, completed DPPs, daily study hours, active study streak (maintained by earning 20 XP daily), and overall syllabus completion percentage per subject. [Related terms: tracker360, pw tracker, study streak, syllabus tracker, progress tracking, eduvibe tracker]
+
+Can I install the Physics Wallah EduVibe app on my phone or PC?
+Yes. Physics Wallah — EduVibe is built as a Progressive Web App (PWA). Students can install it directly from their browser on Android, iOS, Windows, macOS, or ChromeOS by clicking the "Install App" button or choosing "Add to Home Screen" in their browser menu. [Related terms: pw pwa, install pw app, download eduvibe, mobile app, desktop app, offline app]
+
+How can students clear doubts and connect with peers?
+Students can join the official Physics Wallah Telegram Discussion Group (https://t.me/EduVibe_PW_Group) and Community Channel (https://t.me/EduVibe_PW) for 24/7 peer doubt clearing, problem solving, formula sheets, and study updates. [Related terms: pw telegram, doubt clearing, pw doubts, telegram group, study community]
+
+What is EduVibe's responsible disclosure notice?
+EduVibe proactively communicated with upstream platforms for more than 6 months, delivering approximately 20 formal, technical bug reports detailing system delivery issues and streaming misconfigurations. Because these platforms took no corrective action, EduVibe maintains open educational indexing for student academic benefit without commercial exploitation. [Related terms: responsible disclosure, legal notice, technical reporting, bug bounty, terms of service section 3]
+
+How does EduVibe protect student data and privacy?
+EduVibe collects minimal information necessary for educational delivery (optional Google OAuth name and email, local browser storage for progress and bookmarks). We strictly follow the Google API Services User Data Policy, use HTTPS/TLS encryption, and never sell, rent, or monetize personal user data. [Related terms: privacy policy, student data, google login security, data safety]
